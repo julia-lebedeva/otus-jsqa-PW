@@ -1,0 +1,291 @@
+{
+  "cookies": [
+    {
+      "name": ".AspNetCore.Correlation.nR80XIjTsoKDT9WBMKD3Q7b_TQGtOiNEAI9Bsq4XH7Y",
+      "value": "N",
+      "domain": "heisenbug.ru",
+      "path": "/api/v2/auth/callback/heisenbug",
+      "expires": 1710674482.981007,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "jugru-lk-backend_oauth-authorization-token",
+      "value": "6bcc0af8-b48c-4d9d-a80c-49cd60adeb60",
+      "domain": "my.jugru.org",
+      "path": "/api/v1/oauth",
+      "expires": 1742209603.269767,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "online.session",
+      "value": "CfDJ8E2foXc-F_FAlneucLqfst8nvj2XS_vswGNK9yFtLqQl5V7D5YEP07_1CwAKDapCnkt57HK1iIhYKQA0Z7cfOrhCPKeMHG6W1nm5pe8qhvRf-Ylq2DEVr_0ojPyXNHcw8Vxf_k2Bcs78OysujUARt8QKhF7-RYLQMMlNdGdqai5SOPeOo3W-RS0OGYdKXQYbyq4uUCNfjfyZ3sM1uTfRSxDr6fW7MJAZ7mEdbqtpwCGPyHMKi6K06VKSTHvhxDEpHaD34yOe2NVa_Af36x8Ju4g1bBEnGHg3TSF9lG4hTgVIVLpXpkwe_rdxnquSNsUksGDFWMjctJCmwsYnO4KWZ61PtZPtwViiamLBYTxD1yo3zd49tBiw_V05PoDP6t9kL_jQo1hPRHUmsZ4O_dOzhZbV11WojBPj6pJ-FTkrrI13WZzSZ7cqIj9w8HoaAvtlsnloXhEKx4yml0wRRp7QrJG9NsNTvMB2uhcmsMAlth7qRZgHn-9KntguO0GzUB1-NUW_SPygRFZJnCEFPvKq4jtNbVtKeWkKrAtmPv8g52BTDegwgPp51q4tVDo_jmCY7woPT3aajaZoKecXk-s6Oy0CzugvQiwkBnVXwBsD_cKScf8aSr0DZ_vbsLKUwZpOpvhn6VARQAg0gLjaAcwslR9IH4LC_VowGHQj0hHUpxU_3TySPb-wHoAiw85BIZuGZQTVW1Y61HT7JFt4OSEd1EJ22nX32OGYSHEYKEvVW0SDJKOgvP9NRL1uwrV8fqQBAnnmnCwu9OboeiSLLKeeZQ7nr1uVIkNGKTxu_I3wRrJV6af9NGC2QhUstmV-ip1Ys3r-Lk717fVp4Yh54emcEw6p2Mon5IXR7XO0kT3FnDWDiBnzhob3UO2fTNxYggCoBuzTaSNL9dwmlqpjgbaSV5bvdgjktcwQ8hJgaV6rppAQsAwo94Av9X352edxyUkGooUZ5JWmq5ySx2WeO8igMQnZSwEur4KLocDOKdB4B9AGpIByq4cEhi3pHF588QqF6P8EXnU4btujZ_ylh9F5UNfo1uyPYTj_K9H-hTwiLIZI4u5oEfeUi19K67bp03cdgtEACmyCNnoMCZOvebNHGUcQGT0ftjxqPzDxTOOVebiNYRcfdlcNCkk5VlMfPCfmGc7wUZDPm1DOnhTmqLUSOqZjOVtFHxipJXT9gou523SiNFg23Tm7iH03iKsNzd5h0l0KurUqUMB6JzO9PHV0mzCsE7uJpk6aOfKMIsjdmfIlOT4CEhbYIwD-oEJRVtp0gZqEBeXUiDou-J9CA3S0tDwRXNCPKDkgt12CghIJBT7-kZlrVFAj9pM_V34lBPcyb5jEbMBlZNBMoBxHDeiFV-bUFVfpBzn8EaN9oWZz6FFZNTQY0J6xERrfhky-Nz3OlllWelUfkpC_vjiuXzfpU61QLmOx8Dg0xox1MGbi3_A_v2lH8FtHUd1hUHqaVK412logKIEKOErqhhJVobj1joJjpCgXSbYp7fQG2zLCo2fDe0lozByLW2DcO3-AkFh04hyzMIAQNh2QOMPZL_L3M2ecPhO4ATpB6BaZ1slHYQ3kKeVBb_Kry7bQ9AvhiBmI6X7AHZ06NC_mCZ9lk-WGTrLZKBJ6w7vX5VuWf9DrxSJm_qVKTxq1AG17FOCW7Ly6KQw5RqCbTPzGb136vlXM3FzPuE31wVXPj2xufyNqsX8xgEK829RUXC8dNKcAfobB8QoZiaTNeZh7bt5vUd7jo0J7FUnwOrrfDT8Cn1Gj_T7619QRcCWfTUb3wCmY3R66CX2qo-WcLzy4w-pnCl3KjBd37bWII6agIWRTBabiUg_o",
+      "domain": "heisenbug.ru",
+      "path": "/api/v2/auth",
+      "expires": 1742209602.393413,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "jugru-lk-backend_access-token",
+      "value": "af9d97b7-b1c4-4579-986d-c479fd16de1b",
+      "domain": "my.jugru.org",
+      "path": "/api/v1",
+      "expires": 1742209603.269708,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "i",
+      "value": "EY7cNy2GjAf7R2+bihNDmbudPG/TnRdguxImdy+LcQF8UWIsQckPcvoh6VvANx1aLD46gv5jUPnvrfhKzm1wq01T9s4=",
+      "domain": ".yandex.ru",
+      "path": "/",
+      "expires": 1745233583.833947,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "yandexuid",
+      "value": "502012331710673583",
+      "domain": ".yandex.ru",
+      "path": "/",
+      "expires": 1745233584.108094,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_gcl_au",
+      "value": "1.1.1307928913.1710673584",
+      "domain": ".heisenbug.ru",
+      "path": "/",
+      "expires": 1718449584,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "remixlang",
+      "value": "3",
+      "domain": ".vk.com",
+      "path": "/",
+      "expires": 1742347472.073122,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "remixstlid",
+      "value": "9099831744461910243_snspgusoG2DONDTmqnsptH6DTABGuxYBnpWMARdge2H",
+      "domain": ".vk.com",
+      "path": "/",
+      "expires": 1742209584.073195,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ym_uid",
+      "value": "1710673584618204955",
+      "domain": ".heisenbug.ru",
+      "path": "/",
+      "expires": 1742209584,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ym_d",
+      "value": "1710673584",
+      "domain": ".heisenbug.ru",
+      "path": "/",
+      "expires": 1742209584,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "yabs-sid",
+      "value": "857671831710673584",
+      "domain": "mc.yandex.ru",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "yuidss",
+      "value": "502012331710673583",
+      "domain": ".yandex.ru",
+      "path": "/",
+      "expires": 1745233584.108181,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ymex",
+      "value": "2026033584.yrts.1710673584",
+      "domain": ".yandex.ru",
+      "path": "/",
+      "expires": 1742209584.108232,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "bh",
+      "value": "EiYiQ2hyb21pdW0iO3Y9IjEyMyIsIk5vdDpBLUJyYW5kIjt2PSI4IhoFIng4NiIiDiIxMjMuMC42MzEyLjQiKgI/MDoHIm1hY09TIkIIIjEzLjIuMSJKBCI2NCJSNiJDaHJvbWl1bSI7dj0iMTIzLjAuNjMxMi40IiwiTm90OkEtQnJhbmQiO3Y9IjguMC4wLjAiIg==",
+      "domain": ".yandex.ru",
+      "path": "/",
+      "expires": 1742209604.908381,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.1950437069.1710673584",
+      "domain": ".heisenbug.ru",
+      "path": "/",
+      "expires": 1745233584.183004,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ym_isad",
+      "value": "2",
+      "domain": ".heisenbug.ru",
+      "path": "/",
+      "expires": 1710745584,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ym_visorc",
+      "value": "w",
+      "domain": ".heisenbug.ru",
+      "path": "/",
+      "expires": 1710675384,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_iidt",
+      "value": "ifjYtJfyEM12hdDJmdy6lApqZyYq1RgbXZYl8MtM0vxaB7gF5OL2P4M7hlM2xlXnStDQocGcgQYGGg0f2SCkhZ9g9mHJNFD7Bw==",
+      "domain": ".jugru.org",
+      "path": "/",
+      "expires": 1742209584.381452,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_vid_t",
+      "value": "2iEs94kbZMY5IIo+QosNIydqs1okOOt/PjmA0AMqcjxP39i96oCHQ/k+pRw+4vWd71VTT6jbgk8rgCaEWVp2+oBisXGO/LAx5w==",
+      "domain": ".heisenbug.ru",
+      "path": "/",
+      "expires": 1742209584,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "jugru-live_visitor-id_caching-cookie",
+      "value": "Bd8CtQo5W78HDR2LMWDk",
+      "domain": "heisenbug.ru",
+      "path": "/",
+      "expires": 1742209584,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "jug-analytics-signature",
+      "value": "49822adc066ff53223504ac3b078bb2b",
+      "domain": "ringostar.jugru.team",
+      "path": "/",
+      "expires": 1745233604.418583,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga_HN2XYJLMY4",
+      "value": "GS1.1.1710673584.1.1.1710673602.42.0.0",
+      "domain": ".heisenbug.ru",
+      "path": "/",
+      "expires": 1745233602.646814,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "online.session.access_token",
+      "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJsay1vYXV0aDJ8MjAwODY0OTUiLCJ1c2VyX25hbWUiOiJ5dWxpYS5sZWJlZGV2YSs4OTdAanVncnUub3JnIiwiZGlzcGxheU5hbWUiOiLQktC-0YHQtdC80YzRgdC-0YIg0JTQtdCy0Y_QvdC-0YHRgtC-INCh0LXQvNGMINCi0LXRgdGCIiwicHJvZmlsZSI6Imh0dHBzOi8vb2hteWR1Y2suanVncnUub3JnL3VzZXJzL21DY21TSyIsImlzcyI6ImxrIiwiYXV0aG9yaXRpZXMiOlsib25saW5lIiwidXNlcmluZm8iXSwicGljdHVyZSI6IiIsImNsaWVudF9pZCI6ImhlaXNlbmJ1Zy1jbGllbnQiLCJsa191c2VyX2lkIjoyMDA4NjQ5NSwic2NvcGUiOlsib25saW5lIiwidXNlcmluZm8iXSwibGtfc2Vzc2lvbl9pZCI6MTkxODkwNywiZXhwIjoxNzEwNzYwMDA0LCJsYW5nIjoicnUiLCJqdGkiOiJkNmRkNGFhZi0xYmUyLTRmMTYtOGY2YS0yMTg5MzU4NTk0ZTUiLCJlbWFpbCI6Inl1bGlhLmxlYmVkZXZhKzg5N0BqdWdydS5vcmcifQ.MqNpXmjMGzvg9UUAYmcftTfBIZeQwkYwCAqojMLGHLs",
+      "domain": "heisenbug.ru",
+      "path": "/",
+      "expires": 1710760004.393309,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://heisenbug.ru",
+      "localStorage": [
+        {
+          "name": "_vid_lr",
+          "value": "[[\"enofflbZ0bC0\",\"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\"]]"
+        },
+        {
+          "name": "_vid_t",
+          "value": "2iEs94kbZMY5IIo+QosNIydqs1okOOt/PjmA0AMqcjxP39i96oCHQ/k+pRw+4vWd71VTT6jbgk8rgCaEWVp2+oBisXGO/LAx5w=="
+        },
+        {
+          "name": "_ym_synced",
+          "value": "{}"
+        },
+        {
+          "name": "_ym38598865_lastHit",
+          "value": "1710673599085"
+        },
+        {
+          "name": "_ym_uid",
+          "value": "\"1710673584618204955\""
+        },
+        {
+          "name": "_ym_wv2rf:38598865:0",
+          "value": "1"
+        },
+        {
+          "name": "_ym38598865:0_reqNum",
+          "value": "4"
+        },
+        {
+          "name": "_ym38598865_lsid",
+          "value": "451441402722"
+        },
+        {
+          "name": "_ym38598865_il",
+          "value": "\"Войти\""
+        },
+        {
+          "name": "_ym_retryReqs",
+          "value": "{}"
+        }
+      ]
+    }
+  ]
+}
