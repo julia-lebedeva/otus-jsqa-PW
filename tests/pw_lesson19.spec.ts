@@ -1,6 +1,5 @@
 import { test, expect } from '@playwright/test';
 import { users } from '../fixtures/.authData';
-import { beforeEach } from 'node:test';
 
 test.describe('Check BUY A TICKET button on main page', () => {
     test.beforeEach(async ({ page } ) => {
