@@ -12,7 +12,7 @@ import { MainPage } from '../pages/mainPage';
 // })
 
 test.describe('Check BUY A TICKET button on main page', () => {
-    test.skip('Unauthorised user', async({ page }) => {
+    test('Unauthorised user', async({ page }) => {
         const mainPage = new MainPage(page);
         await mainPage.open();
         // Should see BUY A TICKET in hero block
