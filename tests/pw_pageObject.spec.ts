@@ -1,6 +1,5 @@
 import { test, expect } from '@playwright/test';
 import { users } from '../fixtures/.authData';
-import { LoginPage } from '../pages/loginPage';
 import { MainPage } from '../pages/mainPage';
 
 test.describe('Check BUY A TICKET button on main page', () => {
