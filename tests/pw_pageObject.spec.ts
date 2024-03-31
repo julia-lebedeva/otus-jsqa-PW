@@ -56,7 +56,7 @@ test.describe('Check BUY A TICKET button on main page', () => {
         // Should see BUY A TICKET in menu line
         await expect(mainPage.menuButton).toBeVisible();
         // Should NOT see BUY A TICKET in menu -> more
-        await mainPage.openDropDownList();
+        await mainPage.openMoreDropDownList();
         const count = await mainPage.moreListItem.count();
         for (let i = 0; i < count; ++i)
             await expect(mainPage.moreListItem.nth(i)).not.toHaveText('Купить билет');
