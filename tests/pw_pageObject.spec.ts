@@ -3,14 +3,6 @@ import { users } from '../fixtures/.authData';
 import { LoginPage } from '../pages/loginPage';
 import { MainPage } from '../pages/mainPage';
 
-// test('getting started', async ({ page }) => {
-//     const loginPage = new LoginPage(page);
-
-//     await loginPage.open('https://my.jugru.org/auth/login');
-//     await loginPage.login('yulia.lebedeva+897@jugru.org', '123456');
-//     await expect(page.locator('h3')).toBeVisible();
-// })
-
 test.describe('Check BUY A TICKET button on main page', () => {
     test('Unauthorised user', async({ page }) => {
         const mainPage = new MainPage(page);
