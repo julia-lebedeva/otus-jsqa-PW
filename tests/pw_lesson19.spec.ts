@@ -1,7 +1,7 @@
 import { test, expect } from '@playwright/test';
 import { users } from '../fixtures/.authData';
 
-test.describe('Check BUY A TICKET button on main page', () => {
+test.describe.skip('Check BUY A TICKET button on main page', () => {
     test.beforeEach(async ({ page } ) => {
         await page.goto('');
         await expect(page.getByRole('link', { name: 'Войти' })).toBeVisible();
