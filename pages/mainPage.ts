@@ -23,7 +23,7 @@ export class MainPage {
         await expect(this.loginButton).toBeVisible()
     }
 
-    async openDropDownList() {
+    async openMoreDropDownList() {
         await this.moreButton.click();
     }
 
